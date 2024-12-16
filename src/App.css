@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.bodyy {
+  background-image: url('https://bizzmarkblog.com/making-best-business-meeting/');
+  background-size: cover;
+}
